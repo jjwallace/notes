@@ -1,0 +1,5 @@
+*.md filter=git-crypt diff=git-crypt
+*/** filter=git-crypt diff=git-crypt
+*.canvas filter=git-crypt diff=git-crypt
+BrainPad/** filter=git-crypt diff=git-crypt
+BrainPad.md filter=git-crypt diff=git-crypt
